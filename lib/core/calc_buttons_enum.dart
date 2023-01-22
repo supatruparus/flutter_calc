@@ -1,0 +1,3 @@
+enum CalcButtons{
+  REMOVE, CLEAR, DIVIDE, MUlTIPLY, CHANGE_SIGN,
+}
